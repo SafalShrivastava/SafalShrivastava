@@ -1,0 +1,13 @@
+27/12/21
+arraylist
+============
+itrator= 
+capacity and size of object both is differnt
+hasNext=works until data is not finish
+===============
+sample input
+10000
+11000
+00000
+11100
+11110

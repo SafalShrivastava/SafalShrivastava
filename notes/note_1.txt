@@ -1,0 +1,14 @@
+try{
+if(i>10)
+throw new valueExceotion();
+else}
+cath(valueException ex)
+{
+s.o.p(ex)
+'
+'
+'
+}
+
+
+========

@@ -1,0 +1,5 @@
+29/12/21
+AsList->returns list;
+collection is interface 
+and
+collections is class
